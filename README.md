@@ -1,2 +1,2 @@
 # homework-portfolio
-Assignment
+Assignment for week 1 - FEWD class
